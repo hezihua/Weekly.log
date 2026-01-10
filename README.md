@@ -14,8 +14,8 @@
 
 ## 📂 往期回顾
 - 2026
-一月
-第 001 期：[2026 前端开年展望：CSS Masonry 与 AI Agent 时代](./docs/archive-2026-01.md)
+- 一月
+- 第 001 期：[2026 前端开年展望：CSS Masonry 与 AI Agent 时代](./docs/archive-2026-01.md)
 
 ## ✍️ 订阅与投稿
 - **订阅**: Star 本仓库，或关注我们的 RSS 订阅。
