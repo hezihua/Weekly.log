@@ -27,4 +27,9 @@
 - **投稿**: 请通过 [Issue](https://github.com/hezihua/Weekly.log/issues) 提交你认为优质的链接。
 
 ---
+
+## 📄 许可证
+本项目采用 MIT 许可证开源。
+
+## 👨‍💻 贡献者
 Built with ❤️ by [hezihua](https://github.com/hezihua)
