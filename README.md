@@ -2,13 +2,13 @@
 
 > 聚焦前端前沿，每周一更。在这里，我们记录那些真正影响开发者生产力的资讯、深度好文与提效工具。
 
-## 📅 最近更新 (2026年2月16日-2026年2月22日)
+## 📅 最近更新 (2026年2月23日-2026年3月1日)
 
-### [Issue #005] 每周速报：前端工具链的新时代
-- **资讯**: Rolldown 1.0 Release Candidate 持续迭代，Vite 生态深度集成、State of JS 2025 结果深度讨论：AI 疲劳与工具链转向、Vercel AI SDK 持续小版本更新（6.0.95–6.0.97）。
-- **文章**: 《What's New in ViteLand: January 2026 Recap》、《Frontend Weekly Digest #454 (16–22 Feb 2026)》、《Vite 7 Moves to Rolldown and Raises the Baseline》。
-- **工具**: Rolldown RC、Oxlint、Vercel AI SDK 6.x。
-- [点击阅读全文](./docs/archive-2026-05.md)
+### [Issue #006] 每周速报：标准落地与原生化革命
+- **资讯**: TypeScript 5.8 正式版发布：迈向"零构建"时代、Rolldown RC.10 发布：Vite 7.0 稳定版定档三月、Vercel AI SDK 7.0 预览：支持"主动式 Agent"。
+- **文章**: 《The "No-Build" Future: Fact or Fiction?》、《Designing for AI Agents: Beyond the Chatbot》、《CSS 4 & 5: State of the Web 2026》。
+- **工具**: Biome 2.5、Zed 1.5、Tailwind 5.0。
+- [点击阅读全文](./docs/archive-2026-06.md)
 
 ---
 
@@ -21,6 +21,7 @@
 - 二月
 - 第 004 期：[每周速报：AI 基础设施标准化与极速构建工具的生产环境验证](./docs/archive-2026-04.md)
 - 第 005 期：[每周速报：前端工具链的新时代](./docs/archive-2026-05.md)
+- 第 006 期：[每周速报：标准落地与原生化革命](./docs/archive-2026-06.md)
 
 ## ✍️ 订阅与投稿
 - **订阅**: Star 本仓库，或关注我们的 RSS 订阅。
