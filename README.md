@@ -2,13 +2,13 @@
 
 > 聚焦前端前沿，每周一更。在这里，我们记录那些真正影响开发者生产力的资讯、深度好文与提效工具。
 
-## 📅 最近更新 (2026年3月2日-2026年3月8日)
+## 📅 最近更新 (2026年3月16日-2026年3月22日)
 
-### [Issue #007] 每周速报：Rust 原生化时代开启
-- **资讯**: Vite 7.0 稳定版正式发布：Rolldown 时代开启、Chrome 145 测试版：引入原生"AI 调度器" API、React 19.5 次版本发布：Server Actions 支持流式重定向。
-- **文章**: 《Rolldown Migration Guide: From Vite 6 to 7》、《The Death of JSON? Introduction to Binary-Web-State》、《Writing MCP Servers for Frontend Tools》。
-- **工具**: TanStack Start 1.0、Pnpm 11.0、UnoCSS 2.0。
-- [点击阅读全文](./docs/archive-2026-07.md)
+### [Issue #008] 每周速报：浏览器成为 AI 运行时的第一公民
+- **资讯**: Chrome 146 稳定版发布：AI APIs 全面开放、Next.js 16.0 发布：原生 AI 路由与智能预渲染、TypeScript 5.9 Beta：类型安全的 AI 提示词。
+- **文章**: 《Building Browser-Native AI Apps: A Practical Guide》、《The Rise of Prompt Engineering in Frontend Development》、《Rolldown vs Vite 7: Six Months of Production Experience》。
+- **工具**: Volar 3.0、Turbopack 2.0、AI-Test-Gen 1.0。
+- [点击阅读全文](./docs/archive-2026-08.md)
 
 ---
 
@@ -24,6 +24,7 @@
 - 第 006 期：[每周速报：标准落地与原生化革命](./docs/archive-2026-06.md)
 - 三月
 - 第 007 期：[每周速报：Rust 原生化时代开启](./docs/archive-2026-07.md)
+- 第 008 期：[每周速报：浏览器成为 AI 运行时的第一公民](./docs/archive-2026-08.md)
 
 ## ✍️ 订阅与投稿
 - **订阅**: Star 本仓库，或关注我们的 RSS 订阅。
